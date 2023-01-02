@@ -1,2 +1,2 @@
-# MyTimeWebsite
+# OnTheGoWebsite
 Final Website
